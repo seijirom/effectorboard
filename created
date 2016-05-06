@@ -1,0 +1,27 @@
+---
+comment: Created by ALB v2.0.0
+files:
+- models/start_time
+- models/mos_tt.lib
+- models/LV_nmos/nch.mod
+- models/LV_pmos/pch.mod
+- models/LV_pmos/pch2.mod
+- res.asy
+- nmos4.asy
+- pmos4.asy
+- INVSW.asc
+- INVSW.asy
+- INVSW.lib
+- cap.asy
+- Opamp3u.asc
+- Opamp3u.asy
+- Opamp3u.lib
+- Distotiondevice1ESD.asc
+- Distotiondevice1ESD.asy
+- Distotiondevice1ESD.lib
+- IshibeESD.asc
+- IshibeESD.asy
+- IshibeESD.lib
+- sw.asy
+- voltage.asy
+- effectorboardtop.asc

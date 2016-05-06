@@ -1,0 +1,7 @@
+---
+cells:
+  IshibeESD: circuits
+  cap: symbols
+  res: symbols
+  sw: symbols
+  voltage: symbols

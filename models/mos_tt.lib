@@ -1,0 +1,3 @@
+.include "./LV_nmos/nch.mod"
+.include "./LV_pmos/pch2.mod"
+.include "./LV_pmos/pch.mod"
